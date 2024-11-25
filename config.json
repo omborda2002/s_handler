@@ -1,7 +1,7 @@
 {
-  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-  "executablePath": "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
-  "userDataDir": "/Users/omborda/Library/Application Support/BraveSoftware/Brave-Browser/Profile ",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "executablePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "userDataDir": "C:/Users/tomvs/AppData/Local/Google/Chrome/User Data/Profile ",
   "_userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
   "_executablePath": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
   "_userDataDir": "/Users/omborda/Library/Application Support/Google/Chrome/Profile "
