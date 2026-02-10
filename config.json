@@ -1,5 +1,5 @@
 {
-  "userDataDir": "/path/to/user/data/dir/",
-  "executablePath": "/path/to/chromium/or/chrome",
-  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  "executablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+  "userDataDir": "C:\\Users\\tomvs\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Profile ",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
 }
